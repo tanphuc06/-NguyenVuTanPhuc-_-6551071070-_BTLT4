@@ -1,0 +1,17 @@
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.csproj.GenerateResource.cache
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.AssemblyInfoInputs.cache
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.AssemblyInfo.cs
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\câu_17.Form1.resources
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\bin\Debug\net10.0-windows\cau 17.exe
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\bin\Debug\net10.0-windows\cau 17.deps.json
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\bin\Debug\net10.0-windows\cau 17.runtimeconfig.json
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\bin\Debug\net10.0-windows\cau 17.dll
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\bin\Debug\net10.0-windows\cau 17.pdb
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.dll
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\refint\cau 17.dll
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.pdb
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.genruntimeconfig.cache
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\ref\cau 17.dll
+C:\Users\Hoang Quan\source\repos\BTLT3\cau 17\obj\Debug\net10.0-windows\cau 17.csproj.Up2Date
